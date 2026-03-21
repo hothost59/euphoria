@@ -5,6 +5,7 @@
 **v2.1** · Python 3.9+ · tkinter (stdlib only)  
 
 **dll**  · Python 3.9+ (64-bit) · ctypes (stdlib only) · Visual Studio 2019/2022 w/ Build Tools and Desktop development with C++ workload · Windows SDK 10.0+ · C++ 17 or later · httpapi.dll · ws2_32.dll · ole32.dll · shell32.dll · shlwapi.dll · advapi32.dll
+
 *@dudeluther1232 · @shxyder*
 
 -----
