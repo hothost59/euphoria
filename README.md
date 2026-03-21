@@ -59,6 +59,7 @@ dll.EuphoriaStart()
 input("press enter to stop...")
 dll.EuphoriaStop()
 ```
+This will open a localhost:8000 with Euphoria running in it.
 
 -----
 
