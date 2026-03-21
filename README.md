@@ -27,6 +27,7 @@ Euphoria fixes the common breakages that [UnityAssetRipper](https://github.com/A
 - Visual Studio 2019/2022 w/ Build Tools and Desktop development with C++ workload
 - Windows SDK 10.0+
 - C++ 17 or later
+
 (The following are all Windows built-ins)
 - httpapi.dll
 - ws2_32.dll
